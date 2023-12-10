@@ -1,0 +1,6 @@
+[submodule "FlaskPywebviewExampleApi"]
+	path = FlaskPywebviewExampleApi
+	url = git@github.com:rinkaaan/FlaskPywebviewExampleApi.git
+[submodule "FlaskPywebviewExampleReactApp"]
+	path = FlaskPywebviewExampleReactApp
+	url = git@github.com:rinkaaan/FlaskPywebviewExampleReactApp.git
