@@ -4,3 +4,6 @@
 [submodule "FlaskPywebviewExampleReactApp"]
 	path = FlaskPywebviewExampleReactApp
 	url = git@github.com:rinkaaan/FlaskPywebviewExampleReactApp.git
+[submodule "PythonUtils"]
+	path = PythonUtils
+	url = git@github.com:rinkaaan/PythonUtils.git
